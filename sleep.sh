@@ -1,6 +1,6 @@
 #!/bin/bash
 
-S=180
+S=1
 echo "Sleeping for $S s"
 sleep $S
 
