@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Echo from script..."
-exit $0
+echo "Will exit with code: '$1'"
+exit $1
